@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello 1116");
         System.out.println("冲突master");
          System.out.println("pull");
+        System.out.println("push");
     }
 }
